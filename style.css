@@ -1,3 +1,6 @@
+/* Corpo pagina bloccato centrale
+*/
+
 body {
     display: block;
     margin-left: auto;
@@ -5,11 +8,15 @@ body {
     width: 60%;
 }
 
+/* Colore sfondo parte inziale cv
+*/
 #section1 {
     background-color: rgb(237, 237, 237);
     
 }
 
+/* Img bloccata in parte centrale pagina
+*/
 .imgprofile {
     max-width: 20%;
     height: auto;
@@ -19,10 +26,14 @@ body {
     width: 50%;
 }
 
+/* Testo "Web Developer" bloccato centrale
+*/
 .palpinco {
     text-align: center;
 }
 
+/* Linea divisoria in color oro
+*/
 hr {
         height: 2px;
         background-color: rgb(207, 138, 4);
@@ -33,10 +44,14 @@ h2 {
     color: rgb(207, 138, 4);
 }
 
+/* Cambiato font h3
+*/
 h3 {
     font-family: 'Sansita Swashed', cursive;
 }
 
+/* Piè di pagina centrato
+*/
 #made {
     text-align: center;
 }
